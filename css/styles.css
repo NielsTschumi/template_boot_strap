@@ -21,12 +21,16 @@ body {
     webkit-tap-highlight-color: #222;
 }
 ul{
-    font-size:17px;
-    
+    font-size:17px;    
 }
 li{
     text-align: left; 
 }
+.gabi_noah{
+    margin-top:9em;
+}
+
+
 
 hr {
     max-width: 800px;
