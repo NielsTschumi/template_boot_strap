@@ -20,11 +20,13 @@ body {
     color: #d3d3d3;
     webkit-tap-highlight-color: #222;
 }
+ul{
+    font-size:17px;
+    
+}
 li{
     text-align: left; 
 }
-
-
 
 hr {
     max-width: 800px;
